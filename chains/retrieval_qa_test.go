@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/llms/openai"
-	"github.com/tmc/langchaingo/prompts"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/sugkrish/langchaingo/llms/openai"
+	"github.com/sugkrish/langchaingo/prompts"
+	"github.com/sugkrish/langchaingo/schema"
 )
 
 type testRetriever struct{}

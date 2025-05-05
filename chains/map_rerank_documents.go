@@ -7,9 +7,9 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/outputparser"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/sugkrish/langchaingo/memory"
+	"github.com/sugkrish/langchaingo/outputparser"
+	"github.com/sugkrish/langchaingo/schema"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/tmc/langchaingo/embeddings/bedrock"
+	"github.com/sugkrish/langchaingo/embeddings/bedrock"
 )
 
 func TestEmbedQuery(t *testing.T) {

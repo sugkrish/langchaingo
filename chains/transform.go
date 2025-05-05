@@ -3,8 +3,8 @@ package chains
 import (
 	"context"
 
-	"github.com/tmc/langchaingo/memory"
-	"github.com/tmc/langchaingo/schema"
+	"github.com/sugkrish/langchaingo/memory"
+	"github.com/sugkrish/langchaingo/schema"
 )
 
 // TransformFunc is the function type that the transform chain uses.
